@@ -17,6 +17,11 @@ This project combines **time-series analysis, profitability tracking, and intera
 * Enhance analysis using **bookmarks and tooltips**
 
 ---
+## 📷 Dashboard Screenshots
+![1](images/v1.png)
+![2](images/v2.png)
+![3](images/v3.png)
+![4](images/v4.png)
 
 ## 📁 Dataset Description
 
